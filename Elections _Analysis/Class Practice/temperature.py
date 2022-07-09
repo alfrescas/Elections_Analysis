@@ -1,0 +1,1 @@
+>>> temperature = int(input("What is the temperature outside?"))
